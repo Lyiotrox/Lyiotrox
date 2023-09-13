@@ -1,5 +1,4 @@
 - I'm Lyiotrox
 - I am interested in becoming a game developer
--
 - Contact me if you know Lua
 - My Discord ID is Lyiotrox,send me a friend request there if you want to contact me
